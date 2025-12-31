@@ -1,0 +1,6 @@
+{
+  "buildCommand": "ng build --configuration production",
+  "outputDirectory": "dist/complaint-portal",
+  "cleanUrls": true,
+  "trailingSlash": false
+}

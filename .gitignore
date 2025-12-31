@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.env.local
+.angular/
+backend/dist/
+frontend/dist/
+coverage/
+*.log
+.DS_Store
+.vs/
+*.swp
+*.swo
